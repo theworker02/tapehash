@@ -24,6 +24,8 @@
     "hash",
     "url",
     "cli",
-    "toolkit"
+    "toolkit",
+    "v1",
+    "stable"
   ]
 }
